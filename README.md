@@ -44,16 +44,15 @@ The website should feel friendly and natural, with a fresh, welcoming look. The 
 
 ***Inspiration:***
 
-https://experiencecomoxvalley.ca/food-drink/farms-markets/
+**https://experiencecomoxvalley.ca/food-drink/farms-markets/**
 
 > ![image](https://github.com/user-attachments/assets/be4798b9-f7a5-4d47-bee5-204ba0bba935)
 
-
-https://bcfarmersmarkettrail.com/
+**https://bcfarmersmarkettrail.com/**
 
 > ![image](https://github.com/user-attachments/assets/6a4be9a6-1ff9-48a0-a213-7a4360eacb02)
 
-https://farmersedge.ca/
+**https://farmersedge.ca/**
 
 > ![image](https://github.com/user-attachments/assets/0c982c3f-46a7-4583-b25a-a7fbb8e36d56)
 
@@ -61,7 +60,7 @@ https://farmersedge.ca/
 
 ![image](https://github.com/user-attachments/assets/04006966-a412-4b2c-9f98-7d0e579a6402)
 
-dad7cd a3b18a 588157 3a5a40 344e41
+*dad7cd* *a3b18a* *588157* *3a5a40* *344e41*
 
 ***Images:***
 
