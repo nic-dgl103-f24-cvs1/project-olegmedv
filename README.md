@@ -1,0 +1,47 @@
+
+# Project Website Plan Content
+
+## 1. Project Summary
+
+**Comox Valley Farmers’ Market**
+
+**URL:** [https://cvfm.ca/](https://cvfm.ca/)
+
+**Explanation**:
+
+***What is the most important purpose of this website?***
+The main goal of the Comox Valley Farmers’ Market website is to give visitors information about when and where the market happens, who the vendors are, and what events are coming up. It should also tell people why it’s good to buy local products and support farmers in the community.
+
+***Who is the target audience? Perhaps there are multiple target audiences?***
+ - Local people who want to shop for fresh, local products.
+ - Tourists and visitors who want to experience the market and buy unique items from the area.
+ - People or businesses who might want to join the market as vendors.
+
+***What is the overall message you are trying to convey to your target audience on this website?***
+The website should show that the farmers' market is a place for the  community, where people can buy quality, local products and support local businesses.
+
+***What action do you want the audience to perform before they leave your website?***
+The main action is for visitors to come to the market in person. Other actions include signing up for a newsletter, following the market on social media, or applying to become a vendor.
+
+***Are there multiple ways they could take action?***
+- Find the market schedule.  
+- Find the market location.
+
+***Why is their current site not appropriate? There could be many reasons to do with accessibility, speed, design, content, or responsiveness.***
+ - **Accessibility**: It may be hard for some people to use, such as those with disabilities.
+ - **Speed**: If it loads slowly.
+ - **Design**: Not suitable for mobile devices.
+
+## 2. Look and feel
+***Mood:***  
+The website should feel friendly and natural, with a fresh, welcoming look. The mood should be **calm** and **minimalist** and also feel **clean** and **simple** to make information easy to find.
+
+***Inspiration:***
++
+***Colours:***
++
+***Images:***
++
+***Fonts:***
+- **Headline font:** A bold, rounded font like _Poppins_ – to make headlines clear and welcoming.
+- **Body font:** A clean, simple font like _Ubuntu_ – for easy reading in the main text.
