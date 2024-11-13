@@ -28,8 +28,11 @@ The main action is for visitors to come to the market in person. Other actions i
 - Find the market location.
 
 ***Why is their current site not appropriate? There could be many reasons to do with accessibility, speed, design, content, or responsiveness.***
- - **Accessibility**: It may be hard for some people to use, such as those with disabilities.
- - **Speed**: If it loads slowly.
+
+![image](https://github.com/user-attachments/assets/c9651f46-45d6-4069-a9ef-22e3fab4997e)
+
+ - **Performance**: If it loads slowly.
+ - **Accessibility**: It may be hard for some people to use, such as those with disabilities. Also not suitable for robots.
  - **Design**: Not suitable for mobile devices.
 
 ![image](https://github.com/user-attachments/assets/332a710d-e6e9-452c-bae1-5ed86f3f3fb5)
@@ -40,7 +43,19 @@ The main action is for visitors to come to the market in person. Other actions i
 The website should feel friendly and natural, with a fresh, welcoming look. The mood should be **calm** and **minimalist** and also feel **clean** and **simple** to make information easy to find.
 
 ***Inspiration:***
-+
+
+https://experiencecomoxvalley.ca/food-drink/farms-markets/
+
+![image](https://github.com/user-attachments/assets/be4798b9-f7a5-4d47-bee5-204ba0bba935)
+
+
+https://bcfarmersmarkettrail.com/
+
+![image](https://github.com/user-attachments/assets/6a4be9a6-1ff9-48a0-a213-7a4360eacb02)
+
+https://farmersedge.ca/
+
+![image](https://github.com/user-attachments/assets/0c982c3f-46a7-4583-b25a-a7fbb8e36d56)
 
 ***Colours:***
 
