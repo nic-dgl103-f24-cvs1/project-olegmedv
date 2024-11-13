@@ -31,6 +31,8 @@ The main action is for visitors to come to the market in person. Other actions i
  - **Accessibility**: It may be hard for some people to use, such as those with disabilities.
  - **Speed**: If it loads slowly.
  - **Design**: Not suitable for mobile devices.
+ - ![image](https://github.com/user-attachments/assets/332a710d-e6e9-452c-bae1-5ed86f3f3fb5)
+
 
 ## 2. Look and feel
 ***Mood:***  
