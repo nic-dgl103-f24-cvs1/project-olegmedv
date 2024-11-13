@@ -77,3 +77,6 @@ We can use the logo and photos from the current website.
 
 ![image](https://github.com/user-attachments/assets/ec796238-c18c-4761-b9b8-f5ae78d99fb4)
 
+## 3. Website Content
++
+
