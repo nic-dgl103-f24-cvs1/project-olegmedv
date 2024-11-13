@@ -31,7 +31,7 @@ The main action is for visitors to come to the market in person. Other actions i
  - **Accessibility**: It may be hard for some people to use, such as those with disabilities.
  - **Speed**: If it loads slowly.
  - **Design**: Not suitable for mobile devices.
- - ![image](https://github.com/user-attachments/assets/332a710d-e6e9-452c-bae1-5ed86f3f3fb5)
+![image](https://github.com/user-attachments/assets/332a710d-e6e9-452c-bae1-5ed86f3f3fb5)
 
 
 ## 2. Look and feel
@@ -41,9 +41,12 @@ The website should feel friendly and natural, with a fresh, welcoming look. The 
 ***Inspiration:***
 +
 ***Colours:***
-+
+![image](https://github.com/user-attachments/assets/04006966-a412-4b2c-9f98-7d0e579a6402)
 ***Images:***
-+
+We can use the logo and photos from the current website.
+![image](https://github.com/user-attachments/assets/2639cdef-1be9-4c35-9f0e-a89ff1e16a80)
+![image](https://github.com/user-attachments/assets/19fea897-d4c3-4d5f-be43-0a5b414547e6)
+
 ***Fonts:***
 - **Headline font:** A bold, rounded font like _Poppins_ – to make headlines clear and welcoming.
 - **Body font:** A clean, simple font like _Ubuntu_ – for easy reading in the main text.
