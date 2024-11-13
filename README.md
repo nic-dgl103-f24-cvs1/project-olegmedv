@@ -29,13 +29,13 @@ The main action is for visitors to come to the market in person. Other actions i
 
 ***Why is their current site not appropriate? There could be many reasons to do with accessibility, speed, design, content, or responsiveness.***
 
-![image](https://github.com/user-attachments/assets/c9651f46-45d6-4069-a9ef-22e3fab4997e)
+> ![image](https://github.com/user-attachments/assets/c9651f46-45d6-4069-a9ef-22e3fab4997e)
 
  - **Performance**: If it loads slowly.
  - **Accessibility**: It may be hard for some people to use, such as those with disabilities. Also not suitable for robots.
  - **Design**: Not suitable for mobile devices.
 
-![image](https://github.com/user-attachments/assets/332a710d-e6e9-452c-bae1-5ed86f3f3fb5)
+> ![image](https://github.com/user-attachments/assets/332a710d-e6e9-452c-bae1-5ed86f3f3fb5)
 
 
 ## 2. Look and feel
