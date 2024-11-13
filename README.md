@@ -41,10 +41,15 @@ The website should feel friendly and natural, with a fresh, welcoming look. The 
 
 ***Inspiration:***
 +
+
 ***Colours:***
+
 ![image](https://github.com/user-attachments/assets/04006966-a412-4b2c-9f98-7d0e579a6402)
 
+dad7cd a3b18a 588157 3a5a40 344e41
+
 ***Images:***
+
 We can use the logo and photos from the current website.
 
 ![image](https://github.com/user-attachments/assets/2639cdef-1be9-4c35-9f0e-a89ff1e16a80)
@@ -54,3 +59,6 @@ We can use the logo and photos from the current website.
 ***Fonts:***
 - **Headline font:** A bold, rounded font like _Poppins_ – to make headlines clear and welcoming.
 - **Body font:** A clean, simple font like _Ubuntu_ – for easy reading in the main text.
+
+![image](https://github.com/user-attachments/assets/ec796238-c18c-4761-b9b8-f5ae78d99fb4)
+
