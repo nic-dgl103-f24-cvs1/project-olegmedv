@@ -46,16 +46,16 @@ The website should feel friendly and natural, with a fresh, welcoming look. The 
 
 https://experiencecomoxvalley.ca/food-drink/farms-markets/
 
-![image](https://github.com/user-attachments/assets/be4798b9-f7a5-4d47-bee5-204ba0bba935)
+> ![image](https://github.com/user-attachments/assets/be4798b9-f7a5-4d47-bee5-204ba0bba935)
 
 
 https://bcfarmersmarkettrail.com/
 
-![image](https://github.com/user-attachments/assets/6a4be9a6-1ff9-48a0-a213-7a4360eacb02)
+> ![image](https://github.com/user-attachments/assets/6a4be9a6-1ff9-48a0-a213-7a4360eacb02)
 
 https://farmersedge.ca/
 
-![image](https://github.com/user-attachments/assets/0c982c3f-46a7-4583-b25a-a7fbb8e36d56)
+> ![image](https://github.com/user-attachments/assets/0c982c3f-46a7-4583-b25a-a7fbb8e36d56)
 
 ***Colours:***
 
@@ -67,15 +67,15 @@ dad7cd a3b18a 588157 3a5a40 344e41
 
 We can use the logo and photos from the current website.
 
-![image](https://github.com/user-attachments/assets/2639cdef-1be9-4c35-9f0e-a89ff1e16a80)
+> ![image](https://github.com/user-attachments/assets/2639cdef-1be9-4c35-9f0e-a89ff1e16a80)
 
-![image](https://github.com/user-attachments/assets/19fea897-d4c3-4d5f-be43-0a5b414547e6)
+> ![image](https://github.com/user-attachments/assets/19fea897-d4c3-4d5f-be43-0a5b414547e6)
 
 ***Fonts:***
 - **Headline font:** A bold, rounded font like _Poppins_ – to make headlines clear and welcoming.
 - **Body font:** A clean, simple font like _Ubuntu_ – for easy reading in the main text.
 
-![image](https://github.com/user-attachments/assets/ec796238-c18c-4761-b9b8-f5ae78d99fb4)
+> ![image](https://github.com/user-attachments/assets/ec796238-c18c-4761-b9b8-f5ae78d99fb4)
 
 ## 3. Website Content
 +
