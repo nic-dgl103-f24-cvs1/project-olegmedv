@@ -60,6 +60,10 @@ The website should feel friendly and natural, with a fresh, welcoming look. The 
 
 ![image](https://github.com/user-attachments/assets/04006966-a412-4b2c-9f98-7d0e579a6402)
 
+<!-- Coolors Palette Widget -->
+      <script src="https://coolors.co/palette-widget/widget.js"></script>
+      <script data-id="06707323749307481">new CoolorsPaletteWidget("06707323749307481", ["dad7cd","a3b18a","588157","3a5a40","344e41"]); </script>
+
 *dad7cd* *a3b18a* *588157* *3a5a40* *344e41*
 
 ***Images:***
