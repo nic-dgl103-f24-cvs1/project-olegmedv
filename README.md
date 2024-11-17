@@ -72,9 +72,14 @@ The website should feel friendly and natural, with a fresh, welcoming look. The 
 
 ***Colours:***
 
-![image](https://github.com/user-attachments/assets/04006966-a412-4b2c-9f98-7d0e579a6402)
+![image](https://github.com/user-attachments/assets/c43ad1e2-c85a-4190-aefe-779c778f9ef8)
 
-*dad7cd* *a3b18a* *588157* *3a5a40* *344e41*
+#E5C49D - Warm beige/tan
+#EE811E - Vibrant orange
+#77BF54 - Fresh green
+#F9F9F9 - Soft white
+#C9202E - Deep red
+#906C3F - Brownish tone
 
 ***Images:***
 
