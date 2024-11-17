@@ -31,11 +31,25 @@ The main action is for visitors to come to the market in person. Other actions i
 
 > ![image](https://github.com/user-attachments/assets/c9651f46-45d6-4069-a9ef-22e3fab4997e)
 
- - **Performance**: If it loads slowly.
- - **Accessibility**: It may be hard for some people to use, such as those with disabilities. Also not suitable for robots.
- - **Design**: Not suitable for mobile devices.
+**Performance**  
+- **Render-blocking resources**: Key scripts and stylesheets are delaying the loading process, causing a delay. Optimizing or deferring these resources can significantly improve page speed.  
+- **Server response time**: The server response time is too slow. Improving server performance or using caching could enhance this.  
+- **Main-thread work**: The browser loadsc processing tasks too long, leading to sluggish performance. Reducing JavaScript execution and optimizing code can address this.  
+- **CSS optimization**: The site can save bandwidth and improve speed by minifying CSS and removing unused styles.
+
+**Accessibility**  
+- **Missing alt text**: Images lack descriptive text, making them inaccessible to screen readers. Adding meaningful alt attributes improves inclusivity.  
+- **Untitled frames**: Some elements don’t have titles, which makes it hard for assistive technologies to interpret their purpose. Adding titles resolves this.  
+- **Unnamed links**: Many links lack visible or discernible names, creating confusion for users relying on screen readers. Providing clear labels improves usability.  
+
+**Design**  
+- **Loading issues**: The site experiences endless loading, 
+- **Not optimized mobile design**: Design is particularly problematic for mobile users. Optimizing content delivery and addressing potential bottlenecks can make the site more user-friendly.
 
 > ![image](https://github.com/user-attachments/assets/332a710d-e6e9-452c-bae1-5ed86f3f3fb5)
+
+> ![image](https://github.com/user-attachments/assets/bfaba3cc-0862-49ca-8dc5-0faffb4970a9)
+
 
 
 ## 2. Look and feel
