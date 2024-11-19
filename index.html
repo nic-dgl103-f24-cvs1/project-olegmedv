@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage - Comox Valley Farmers Market</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700;900&family=Ubuntu:wght@300;400;700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <img src="images/ComoxValleyFarmersMarket-Horizontal-Logo.svg" alt="FORM" class="logo">
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#about-us">About us</a></li>
+                <li><a href="#faq">FAQ</a></li>
+                <li><a href="#contact-us">Contact us</a></li>
+                <li class="mobile-callback"><a href="#callback">Call back</a></li>
+            </ul>
+        </nav>
+        <a href="#callback" class="callback-btn">Call back</a>
+        <button class="menu-btn">&#9776;</button>
+    </header>
+
+    <main>
+        <section class="hero dark-background">
+            <div class="content-width">
+                <h1>Welcome to your new wireframe kit</h1>
+                <p>
+                    If you're looking for the latest in wireless headphones, look no
+                    further. These are perfect for TV, stereo, home, and cell phone.
+                </p>
+                <a class="button" href="#">Start Now!</a>
+                <a href="#">Watch more</a>
+            </div>
+        </section>
+    </main>
+
+
+
+
+
+
+
+
+    <script>
+        document.querySelector('.menu-btn').addEventListener('click', () => {
+            document.querySelector('.nav-links').classList.toggle('active');
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,211 @@
+/*-------- GLOBAL STYLES ---------*/
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.4rem;
+    margin: 0;
+    font-family: "Ubuntu", serif;
+    font-weight: 400;
+    color: #a1aeb7;
+    line-height: 1.5;
+}
+
+/*-------- TYPOGRAPHY ---------*/
+
+h1 {
+    font-size: 3.8rem;
+    color: #505d68;
+    line-height: 1.3;
+    font-weight: 700;
+    margin-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+a {
+    color: #77BF54;
+    display: block;
+    margin: 16px 0;
+    padding: 12px 48px;
+}
+
+a.button {
+    color: #ffffff;
+    text-transform: uppercase;
+    background-color: #77BF54;
+    border-radius: 4px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin: 26px 0;
+}
+
+/*-------- UTILITY ---------*/
+/* these CSS properties have been sepearated into individual style rules so that you can apply them to multiple blocks of content */
+
+.content-width {
+    width: 334px;
+    margin: auto;
+}
+
+.dark-background {
+    background-color: #f2f5f7;
+}
+
+/*-------- HEADER ---------*/
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f2f5f7;
+    color: #505d68;
+}
+
+.logo {
+    width: 200px;
+    font-weight: bold;
+}
+
+.nav-links {
+    display: none;
+    /* hide row menu */
+    list-style: none;
+    flex-direction: column;
+    background-color: #f2f5f7;
+    position: absolute;
+    top: 71px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    text-transform: uppercase;
+}
+
+.nav-links.active {
+    display: flex;
+}
+
+.nav-links li {
+    margin: 10px 0;
+}
+
+.nav-links a {
+    color: #505d68;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu-btn {
+    display: block;
+    font-size: 2rem;
+    background: none;
+    border: none;
+    color: #EE811E;
+    cursor: pointer;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.callback-btn {
+    display: none;
+    /* hide right callback */
+}
+
+.mobile-callback {
+    display: block;
+    /* callback in dropdown */
+}
+
+.mobile-callback a {
+    color: #ffffff;
+    text-transform: uppercase;
+    background-color: #77BF54;
+    border-radius: 4px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 12px 48px;
+}
+
+/*-------- HERO ---------*/
+
+section.hero {
+    background-image: url("images/background.png");
+    background-position: bottom right;
+    background-size: 85%;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 60vh;
+    padding: 56px 0;
+    background-color: #E5C49D;
+}
+
+
+
+
+
+
+/*-------- LARGE DEVICES (desktops, 1200px and up) ---------*/
+@media only screen and (min-width: 1200px) {
+    h1 {
+        font-size: 6.6rem;
+        font-weight: 400;
+        padding-left: 0;
+        padding-right: 0;
+        width: 50%;
+    }
+
+    a {
+        display: inline-block;
+    }
+
+    .content-width {
+        width: 1130px;
+    }
+
+    /* LARGE HEADER */
+    .nav-links {
+        display: flex;
+        /* show row nav */
+        flex-direction: row;
+        position: static;
+        width: auto;
+        background-color: transparent;
+        padding: 0;
+        margin-left: auto;
+    }
+
+    .nav-links li {
+        margin: 0 15px;
+    }
+
+    /* hide hamburger */
+    .menu-btn {
+        display: none;
+    }
+
+    .login-btn {
+        display: inline-block;
+    }
+
+    /* LARGE HERO */
+    section.hero {
+        background-size: auto 75%;
+        text-align: initial;
+        height: initial;
+    }
+
+    section.hero p {
+        padding-bottom: 30px;
+        padding-left: 0;
+        padding-right: 0;
+        width: 50%;
+    }
