@@ -31,11 +31,25 @@ The main action is for visitors to come to the market in person. Other actions i
 
 > ![image](https://github.com/user-attachments/assets/c9651f46-45d6-4069-a9ef-22e3fab4997e)
 
- - **Performance**: If it loads slowly.
- - **Accessibility**: It may be hard for some people to use, such as those with disabilities. Also not suitable for robots.
- - **Design**: Not suitable for mobile devices.
+**Performance**  
+- **Render-blocking resources**: Key scripts and stylesheets are delaying the loading process, causing a delay. Optimizing or deferring these resources can significantly improve page speed.  
+- **Server response time**: The server response time is too slow. Improving server performance or using caching could enhance this.  
+- **Main-thread work**: The browser loadsc processing tasks too long, leading to sluggish performance. Reducing JavaScript execution and optimizing code can address this.  
+- **CSS optimization**: The site can save bandwidth and improve speed by minifying CSS and removing unused styles.
+
+**Accessibility**  
+- **Missing alt text**: Images lack descriptive text, making them inaccessible to screen readers. Adding meaningful alt attributes improves inclusivity.  
+- **Untitled frames**: Some elements don’t have titles, which makes it hard for assistive technologies to interpret their purpose. Adding titles resolves this.  
+- **Unnamed links**: Many links lack visible or discernible names, creating confusion for users relying on screen readers. Providing clear labels improves usability.  
+
+**Design**  
+- **Loading issues**: The site experiences endless loading, 
+- **Not optimized mobile design**: Design is particularly problematic for mobile users. Optimizing content delivery and addressing potential bottlenecks can make the site more user-friendly.
 
 > ![image](https://github.com/user-attachments/assets/332a710d-e6e9-452c-bae1-5ed86f3f3fb5)
+
+> ![image](https://github.com/user-attachments/assets/bfaba3cc-0862-49ca-8dc5-0faffb4970a9)
+
 
 
 ## 2. Look and feel
@@ -46,21 +60,26 @@ The website should feel friendly and natural, with a fresh, welcoming look. The 
 
 **https://experiencecomoxvalley.ca/food-drink/farms-markets/**
 
-> ![image](https://github.com/user-attachments/assets/be4798b9-f7a5-4d47-bee5-204ba0bba935)
+> ![image](https://github.com/user-attachments/assets/68bc463e-3f57-4d19-bed4-6ce53559727e)
 
 **https://bcfarmersmarkettrail.com/**
 
-> ![image](https://github.com/user-attachments/assets/6a4be9a6-1ff9-48a0-a213-7a4360eacb02)
+> ![image](https://github.com/user-attachments/assets/85c14239-0275-4904-ab9f-a710cada6457)
 
 **https://farmersedge.ca/**
 
-> ![image](https://github.com/user-attachments/assets/0c982c3f-46a7-4583-b25a-a7fbb8e36d56)
+> ![image](https://github.com/user-attachments/assets/72ef881c-0ec1-4a41-8267-5aa757d843f9)
 
 ***Colours:***
 
-![image](https://github.com/user-attachments/assets/04006966-a412-4b2c-9f98-7d0e579a6402)
+![image](https://github.com/user-attachments/assets/c43ad1e2-c85a-4190-aefe-779c778f9ef8)
 
-*dad7cd* *a3b18a* *588157* *3a5a40* *344e41*
+    #E5C49D - Warm beige/tan
+    #EE811E - Vibrant orange
+    #77BF54 - Fresh green
+    #F9F9F9 - Soft white
+    #C9202E - Deep red
+    #906C3F - Brownish tone
 
 ***Images:***
 
