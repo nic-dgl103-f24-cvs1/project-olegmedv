@@ -14,11 +14,11 @@ body {
     font-weight: 400;
     color: #000000;
     line-height: 1.5;
-    background-color: rgba(229, 196, 157, 0.4);
-    background-image: url("images/backround-pattern.png");
+    background-color: rgba(229, 196, 157, 0.2);
+    /* background-image: url("images/backround-pattern.png");
     background-repeat: repeat;
     background-size: 800px;
-    background-position: top left;
+    background-position: top left; */
 }
 
 /*-------- TYPOGRAPHY ---------*/
@@ -83,7 +83,7 @@ header {
     /* hide row menu */
     list-style: none;
     flex-direction: column;
-    background-color: rgba(229, 196, 157);
+    background-color: #906C3F;
     position: absolute;
     top: 75px;
     left: 0;
@@ -103,7 +103,7 @@ header {
 }
 
 .nav-links a {
-    color: #505d68;
+    color: #ffffff;
     text-decoration: none;
     margin: 0px;
     padding: 0px;
@@ -114,7 +114,7 @@ header {
     font-size: 2rem;
     background: none;
     border: none;
-    color: #EE811E;
+    color: #906C3F;
     cursor: pointer;
     margin: 10px;
     font-weight: bold;
@@ -306,7 +306,7 @@ section.hero {
         position: relative;
         background-color: rgba(0, 0, 0, 0.4);
         color: #ffffff;
-        padding: 20px;
+        padding: 50px;
         border-radius: 8px;
     }
 
