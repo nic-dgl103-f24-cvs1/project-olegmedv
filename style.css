@@ -14,6 +14,11 @@ body {
     font-weight: 400;
     color: #000000;
     line-height: 1.5;
+    background-color: rgba(229, 196, 157, 0.4);
+    background-image: url("images/backround-pattern.png");
+    background-repeat: repeat;
+    background-size: 800px;
+    background-position: top left;
 }
 
 /*-------- TYPOGRAPHY ---------*/
@@ -64,7 +69,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    background-color: #f2f5f7;
+    /* background-color: #f2f5f7; */
     color: #505d68;
 }
 
@@ -78,9 +83,9 @@ header {
     /* hide row menu */
     list-style: none;
     flex-direction: column;
-    background-color: #f2f5f7;
+    background-color: rgba(229, 196, 157);
     position: absolute;
-    top: 71px;
+    top: 75px;
     left: 0;
     width: 100%;
     text-align: center;
@@ -180,14 +185,45 @@ section.hero {
     font-weight: 700;
 }
 
-.testimonial-item {
+.product-item {
     margin: 20px 0;
     padding: 15px;
+    background-color: rgba(229, 196, 157, 0.5);
+    padding: 20px;
+    border-radius: 8px;
 }
 
-.testimonial-item p {
+.avatar {
+    width: 100px;
+    height: 100px;
+    /* border-radius: 50%; */
+    margin: 0 auto 10px;
+}
+
+.product-item p {
     font-size: 1.4rem;
     /* color: #a1aeb7; */
+    margin: 10px 0;
+}
+
+.product-item h3 {
+    font-size: 1.6rem;
+    color: #424B5A;
+    font-weight: 700;
+    margin: 5px 0;
+}
+
+.job-title {
+    font-size: 1.2rem;
+    color: #a1aeb7;
+}
+
+
+
+
+
+
+
 
 
 
@@ -274,3 +310,18 @@ section.hero {
         border-radius: 8px;
     }
 
+    /* LARGE products */
+    .products {
+        width: auto;
+    }
+
+    .products-container {
+        flex-direction: row;
+        gap: 20px;
+    }
+
+    .product-item {
+        width: 100%;
+    }
+
+}
