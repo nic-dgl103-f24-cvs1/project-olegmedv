@@ -158,3 +158,155 @@ We can use the logo and photos from the current website.
 - **Copyright Notice**: "This is a fictional website designed for educational purposes."
 
 
+# Contact Us Page
+
+## Header
+- **Logo**: Comox Valley Farmers Market logo
+- **Navigation**:
+  - Home
+  - About Us
+  - FAQ
+  - Contact Us
+  - Mobile Callback: "Call Now!"
+
+## Hero Section
+- **Heading**: "Contact Us"
+
+## Contact Information Section
+- **Heading**: "We'd Love to Hear From You"
+- **Text**: "If you have any questions, feel free to reach out to us using the contact form below, or get in touch through the contact details provided."
+- **Contact Details**:
+  - **Address**: PO Box 3301 Courtenay BC V9N 5N5
+  - **Phone**: (123) 456-7890
+  - **Email**: info@cvfm.ca
+
+## Contact Form Section
+- **Heading**: "Contact Us"
+- **Form Fields**:
+  - **Your Name**: Input field for the user's name
+  - **Your Email**: Input field for the user's email
+  - **Your Message**: Textarea for the user's message
+  - **Subject**: Dropdown selection (General Inquiry, Support, Sales, Feedback)
+  - **Terms Agreement**: Checkbox to agree to terms and conditions
+- **Submit Button**: "Submit" button with a paper plane icon
+
+## Footer
+- **Navigation**:
+  - Home
+  - About Us
+  - FAQ
+  - Contact Us
+- **Copyright Notice**: "This is a fictional website designed for educational purposes."
+
+
+# FAQ Page
+
+## Header
+- **Logo**: Comox Valley Farmers Market logo
+- **Navigation**:
+  - Home
+  - About Us
+  - FAQ
+  - Contact Us
+  - Mobile Callback: "Call Now!"
+
+## Hero Section
+- **Heading**: "FAQ"
+
+## FAQ Section
+### Frequently Asked Questions
+
+#### 1. Becoming a Vendor
+- **Can I sell my products at the market?**
+  - "No. All products must be made, baked, grown, raised, or wild harvested in the Comox Valley and Strathcona Regional Districts."
+- **Can I sell crafts at the market?**
+  - "No, our market is a food-only farmers’ market, and at this time we do not accept applications for crafters."
+- **How do I apply to perform as a musician at the market?**
+  - "Apply through the 'Apply Here' section on the website."
+
+#### 2. Product Information
+- **How do I know what produce is in season?**
+  - "Check our weekly updates under the 'See what’s new this week' button on the homepage."
+- **When are fruit and vegetables picked?**
+  - "Most produce is harvested within 24 hours of market day."
+- **Are all the products at the market local?**
+  - "Yes, all products (except seafood) are local, from Comox Valley or Strathcona District."
+
+#### 3. Market Amenities
+- **Are dogs allowed at the market?**
+  - "Only service dogs are allowed. Pets are not permitted."
+- **Where can I purchase tokens?**
+  - "Tokens are available for purchase at the Market Information Desk, using debit or credit card."
+
+#### 4. Market Hours and Location
+- **Does the market go year-round?**
+  - "Yes, except for two Saturdays during Christmas."
+- **What time does the market open?**
+  - "Saturdays: 9 AM - 1 PM (year-round) / Wednesdays: 4 PM - 8 PM (June-August) / Sundays: 10 AM - 1 PM (July-September)"
+
+## Footer
+- **Navigation**:
+  - Home
+  - About Us
+  - FAQ
+  - Contact Us
+- **Copyright Notice**: "This is a fictional website designed for educational purposes."
+
+
+# About Us Page
+
+## Header
+- **Logo**: Comox Valley Farmers Market logo
+- **Navigation**:
+  - Home
+  - About Us
+  - FAQ
+  - Contact Us
+  - Mobile Callback: "Call Now!"
+
+## Hero Section
+- **Heading**: "About Us"
+
+## Mission Section
+- **Heading**: "Our Mission"
+- **Mission Points**:
+  - Promote economic health of the local farm community
+  - Provide quality locally grown farm products
+  - Educate the community on agricultural issues
+  - Promote local agriculture
+
+## History Section
+- **Heading**: "Our History"
+- **Paragraph**: The Comox Valley Farmers’ Market Association is a non-profit organization, operating since 1992, growing from a small seasonal market to a year-round marketplace with over 100 vendors offering local produce and products.
+
+## Testimonials Section
+- **Heading**: "Testimonials"
+  - "The best market in the area! Always fresh produce and great atmosphere." - Jane D.
+  - "I love the sense of community here. A must-visit every Saturday!" - Mark S.
+
+## Video Section
+- **Heading**: "See Us in Action"
+- **Video**: Embedded YouTube video showcasing the market.
+
+## Call-to-Action Section
+- **Heading**: "Join Our Community"
+- **Text**: "Want to become part of our vibrant marketplace? Learn how you can contribute as a vendor or volunteer."
+- **Contact Button**: "Contact Us" (Link to contact page)
+
+## Map Section
+- **Heading**: "Visit Us"
+- **Map**: Embedded Google Maps showing the market's location.
+
+## Footer
+- **Navigation**:
+  - Home
+  - About Us
+  - FAQ
+  - Contact Us
+- **Copyright Notice**: "This is a fictional website designed for educational purposes."
+
+## Script
+- JavaScript for mobile menu button functionality.
+
+
+
