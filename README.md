@@ -98,5 +98,63 @@ We can use the logo and photos from the current website.
 > ![image](https://github.com/user-attachments/assets/ec796238-c18c-4761-b9b8-f5ae78d99fb4)
 
 ## 3. Website Content
-+
+
+# Homepage
+
+## Header
+- **Logo**: Comox Valley Farmers Market logo
+- **Navigation**:
+  - Home
+  - About Us
+  - FAQ
+  - Contact Us
+  - Mobile Callback: "Call Now!"
+
+## Hero Section
+- **Video Background**: A looping video showcasing the market
+- **Heading**: "Welcome to Comox Valley Farmers Market"
+- **Text**: Acknowledgment of the K’ómoks First Nation territory
+- **Call to Action**: Button with "Call Now!"
+
+## Products Section
+- **Heading**: "What We Offer For You"
+- **Subheading**: "We connect buyers and sellers. We find the best suppliers."
+- **Products**: 
+  - **Agricultural Products**:
+    - Image: Cabbage
+    - Description: "Fresh produce sourced from local farms."
+    - Button: "Shop Now"
+  - **Organic Products**:
+    - Image: Orange
+    - Description: "Organic goods grown without chemicals."
+    - Button: "Shop Now"
+  - **Dried Products**:
+    - Image: Nuts
+    - Description: "Dried fruits, nuts, and grains for all occasions."
+    - Button: "Shop Now"
+
+## Call to Action Section
+- **Heading**: "Join Our Farmers Market Community"
+- **Text**: "Support sustainable farming practices, explore seasonal goods."
+- **Button**: "Get Started"
+
+## Upcoming Events Section
+- **Heading**: "Upcoming Events"
+- **Text**: "Exciting events at the Comox Valley Farmers Market!"
+- **Events**:
+  - **Harvest Festival**:
+    - Date: December 15, 2024
+    - Description: "Live music, fresh produce, and activities for the family."
+  - **Cooking Workshop**:
+    - Date: January 10, 2025
+    - Description: "Learn how to cook with local ingredients."
+    
+## Footer
+- **Navigation**:
+  - Home
+  - About Us
+  - FAQ
+  - Contact Us
+- **Copyright Notice**: "This is a fictional website designed for educational purposes."
+
 
