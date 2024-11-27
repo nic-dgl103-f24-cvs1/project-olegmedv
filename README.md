@@ -305,8 +305,41 @@ We can use the logo and photos from the current website.
   - Contact Us
 - **Copyright Notice**: "This is a fictional website designed for educational purposes."
 
-## Script
-- JavaScript for mobile menu button functionality.
+# Validation Images
+
+## 1. **Index Page**
+- **Description**: Screenshot of the homepage validation.
+- **Image**: ![image](https://github.com/user-attachments/assets/54a51d7b-5bd0-4be1-8064-b48b47de9627)
+
+## 2. **About Page**
+- **Description**: Screenshot of the About Us page validation.
+- **Image**: ![image](https://github.com/user-attachments/assets/97ae5624-3600-48d3-8374-34e073b5a257)
+
+## 3. **FAQ Page**
+- **Description**: Screenshot of the FAQ page validation.
+- **Image**: ![image](https://github.com/user-attachments/assets/4aef23d3-2e1d-420b-a870-cde8b97fe617)
+
+## 4. **Contact Page**
+- **Description**: Screenshot of the Contact Us page validation.
+- **Image**: ![image](https://github.com/user-attachments/assets/13f8f69f-b0b2-40d1-8a9f-7e3135f5ead3)
+
+## 5. **Lighthouse (Desktop)**
+- **Description**: Lighthouse validation report for the desktop version of the website.
+- **Image**: ![image](https://github.com/user-attachments/assets/b3506ad6-0d5d-45f1-b44e-7a32fb54b256)
+
+## 6. **Lighthouse (Mobile)**
+- **Description**: Lighthouse validation report for the mobile version of the website.
+- **Image**: ![image](https://github.com/user-attachments/assets/c37dd16e-4ee5-4fc1-ad9d-918a5757d8af)
+
+## 7. **WebAIM (Accessibility)**
+- **Description**: WebAIM accessibility validation screenshot.
+- **Image**: ![image](https://github.com/user-attachments/assets/e3b2a989-6d39-4eb5-bdef-d85a1caa87eb)
+
+## 8. **Pingdom (Performance)**
+- **Description**: Pingdom performance validation screenshot.
+- **Image**: ![image](https://github.com/user-attachments/assets/72a002c2-0e28-4c02-90e2-81cf2e56af75)
+
+
 
 
 
