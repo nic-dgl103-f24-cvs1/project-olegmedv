@@ -264,6 +264,10 @@ section.hero {
         margin: 0 15px;
     }
 
+    .nav-links a {
+        color: #505d68;
+    }
+
     /* hide hamburger */
     .menu-btn {
         display: none;
