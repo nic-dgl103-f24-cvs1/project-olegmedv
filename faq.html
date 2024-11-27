@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ - Comox Valley Farmers Market</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700;900&family=Ubuntu:wght@300;400;700&display=swap"
+        rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <img src="images/ComoxValleyFarmersMarket-Horizontal-Logo.svg" alt="Comox Valley Farmer Market Logo"
+            class="logo">
+        <nav>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About us</a></li>
+                <li><a href="faq.html">FAQ</a></li>
+                <li><a href="contact.html">Contact us</a></li>
+                <li class="mobile-callback"><a href="#callback"><i class="fas fa-phone"></i> Call Now!</a></li>
+            </ul>
+        </nav>
+        <a href="#callback" class="callback-btn"><i class="fas fa-phone"></i> Call Now!</a>
+        <button class="menu-btn">&#9776;</button>
+    </header>
+
+    <section class="faq-hero dark-background">
+        <div class="content-width overlay">
+            <h1>FAQ</h1>
+        </div>
+    </section>
+
+
+
+
+    <footer class="footer">
+        <nav class="footer-nav">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About us</a></li>
+                <li><a href="faq.html">FAQ</a></li>
+                <li><a href="contact.html">Contact us</a></li>
+            </ul>
+        </nav>
+        <p class="copyright">This is a fictional website that was designed and coded as an educational exercise. It is
+            not intended to be seen outside of the class environment. None of the content and images were approved by
+            the business owner.</p>
+    </footer>
+
+    <script>
+        document.querySelector('.menu-btn').addEventListener('click', () => {
+            document.querySelector('.nav-links').classList.toggle('active');
+        });
+    </script>
+</body>
+
+</html>
