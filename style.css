@@ -260,6 +260,39 @@ section.hero {
     margin: 10px 0 20px;
 }
 
+/*-------- FOOTER ---------*/
+.footer {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 1.2rem;
+}
+
+.footer-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 10px;
+}
+
+.footer-nav ul li {
+    margin: 10px 0;
+}
+
+.footer-nav a {
+    text-decoration: none;
+    color: #505d68;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    margin: 0px;
+}
+
+footer p {
+    margin: 10px 0 0;
+    font-size: 1.2rem;
+    color: #a1aeb7;
+    border-top: 1px solid #d3d3d3;
+    padding-top: 10px;
+}
+
 
 
 
@@ -387,6 +420,17 @@ section.hero {
 
     .call-to-action .cta-content {
         text-align: left;
+    }
+
+    /* FOOTER LARGE */
+    .footer-nav ul {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .footer-nav ul li {
+        margin: 0;
     }
 
 }
