@@ -30,8 +30,21 @@ The main action is for visitors to come to the market in person. Other actions i
 - Find the market location.
 
 ***Why is their current site not appropriate? There could be many reasons to do with accessibility, speed, design, content, or responsiveness.***
+## 1. **Lighthouse (Desktop)**
+- **Description**: Lighthouse validation report for the desktop version of the website.
+- **Image**: ![image](https://github.com/user-attachments/assets/c9651f46-45d6-4069-a9ef-22e3fab4997e)
 
-> ![image](https://github.com/user-attachments/assets/c9651f46-45d6-4069-a9ef-22e3fab4997e)
+## 2. **Lighthouse (Mobile)**
+- **Description**: Lighthouse validation report for the mobile version of the website.
+- **Image**: ![image](https://github.com/user-attachments/assets/8491124d-2fea-4a94-973f-a053f856b1e4)
+
+## 3. **WebAIM (Accessibility)**
+- **Description**: WebAIM accessibility validation screenshot.
+- **Image**: ![image](https://github.com/user-attachments/assets/2d69e8bb-d17d-4882-bc44-01f00a28120d)
+
+## 4. **Pingdom (Performance)**
+- **Description**: Pingdom performance validation screenshot.
+- **Image**: ![image](https://github.com/user-attachments/assets/afa20d75-7f09-4cb1-83bb-c640e53b6b0c)
 
 **Performance**  
 - **Render-blocking resources**: Key scripts and stylesheets are delaying the loading process, causing a delay. Optimizing or deferring these resources can significantly improve page speed.  
