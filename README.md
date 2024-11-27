@@ -1,6 +1,8 @@
 
 # Project Website Plan Content
 
+**My project url:** [https://nic-dgl103-f24-cvs1.github.io/project-olegmedv/index.html](https://nic-dgl103-f24-cvs1.github.io/project-olegmedv/index.html)
+
 ## 1. Project Summary
 
 **Comox Valley Farmers’ Market**
