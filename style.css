@@ -591,10 +591,6 @@ label[for="terms"] input[type="checkbox"] {
     padding-bottom: 5px;
 }
 
-.faq-item {
-    margin-bottom: 15px;
-}
-
 .faq-question {
     background-color: #f9f9f9;
     border: 1px solid #ccc;
@@ -621,6 +617,11 @@ label[for="terms"] input[type="checkbox"] {
 .faq-answer p {
     margin: 0;
 }
+
+.faq-table {
+    width: 100%;
+}
+
 
 
 
