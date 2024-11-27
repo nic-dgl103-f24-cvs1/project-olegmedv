@@ -16,15 +16,19 @@
 
 <body>
     <header>
-        <img src="images/ComoxValleyFarmersMarket-Horizontal-Logo.svg" alt="Logo" class="logo">
+        <img src="images/ComoxValleyFarmersMarket-Horizontal-Logo.svg" alt="Comox Valley Farmer Market Logo"
+            class="logo">
         <nav>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about.html">About us</a></li>
                 <li><a href="faq.html">FAQ</a></li>
                 <li><a href="contact.html">Contact us</a></li>
+                <li class="mobile-callback"><a href="#callback"><i class="fas fa-phone"></i> Call Now!</a></li>
             </ul>
         </nav>
+        <a href="#callback" class="callback-btn"><i class="fas fa-phone"></i> Call Now!</a>
+        <button class="menu-btn">&#9776;</button>
     </header>
 
     <section class="other-hero dark-background">
@@ -101,6 +105,13 @@
         </nav>
         <p class="copyright">This is a fictional website created for educational purposes.</p>
     </footer>
+
+
+    <script>
+        document.querySelector('.menu-btn').addEventListener('click', () => {
+            document.querySelector('.nav-links').classList.toggle('active');
+        });
+    </script>
 </body>
 
 </html>
